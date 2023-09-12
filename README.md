@@ -1,0 +1,3 @@
+-  Olá meu nome é Amabily 
+-  Sou aluna na escola Rui Barbosa de Arapoti - PR
+-  Estudo pensamento computacional 
